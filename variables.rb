@@ -4,3 +4,6 @@ car = "Toyota"
 age = 19
 area_code = 303
 street_address = 5104
+height = 6.1
+goals_per_game = 1.33
+avg_distance = 7.2

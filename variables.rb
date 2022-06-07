@@ -11,8 +11,8 @@ mowed_lawn = false
 works_home = false
 green = true
 
-email # "katydench@gmail.com"
-land # "Gunnison, CO"
+email = "katydench@gmail.com"
+land = "Gunnison, CO"
 
 puts email
 puts avg_distance
